@@ -1,8 +1,10 @@
 # Issues identified and status
-Table columns are divided by "|", so to add to a column, find the space between the correct two "|" on the correct row and enter your text there, or create a new row with 4 columns divided by "|".
-|Software Element|Issue|Suggested type|Documenters|Documentation Link|
+
+Table columns are divided by "|", so to add to a column, find the space between the correct two "|" on the correct row and enter your text there, or create a new row with 5 columns divided by "|".
+
+|Software Element|Issue/Explanation|Suggested type|Documenters|Documentation Link|
 |----|----|----|----|----|
-|Wordpress|(Version?) rendering in browsers after initial installation|*how-to*|  |  |
+|Wordpress|"mysterious" issues on the VM side, or site site not loading. We suspect these are related to the memory available for the micro E2 instance, seems fixed when using an E2 small instance.|*explanation?*|  |  |
 |Wordpress|rendering as PHP code in the browser|*how-to*|  |
 |Wordpress|reverting back to an old IP address when I go to the admin login page|*how-to*| |  |
 |Wordpress|Remove and reinstall Wordpress|Tutorial| |[Remove and Reinstall Wordpress]|
@@ -21,5 +23,7 @@ Table columns are divided by "|", so to add to a column, find the space between 
 |VM configuration|Initial VM configuration to avoid issues with PHP/Wordpress|*reference*|  |  |
 |VM Command Line Interface|Failure to Unzip Downloaded Files|troubleshooting how-to| | [Failure to Unzip] |
 |GCloud | | | | |
+|Nano|Effective use|*reference/cheat sheet*| | |
+|grep| |*reference/cheat sheet*| | |
 
 
