@@ -26,6 +26,8 @@ How-to guides are like recipes. They describe an end goal, such as troubleshooti
 
 #### Explanations
 
+Explanations are the *why* you are doing what you are doing. If you had an *aha!* moment when making a connection, the explanation for it would go here. Explanations are stored in the [/explanations/](https://github.com/imparseable/ISLT7301_documentation/tree/Fall2026/explanations) directory. There is a brief [README.md](https://github.com/imparseable/ISLT7301_documentation/blob/Fall2026/explanations/README.md).
+
 #### Reference pages
 
 Reference documents describe something as briefly as possible, and describe the "thing" and only the thing, not focusing on the needs of the user. Reference material goes in the [/reference/](https://github.com/imparseable/ISLT7301_documentation/tree/Fall2026/reference) directory of the Fall 2026 branch.
