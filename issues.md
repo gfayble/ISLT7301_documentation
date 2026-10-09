@@ -14,7 +14,8 @@ Table columns are divided by "|", so to add to a column, find the space between 
 |MySQL|1398 error|*reference AND how-to*|  |  |
 |Omeka|mod_rewrite not enabled|*how-to*| |[Omeka Mod_Rewrite Troubleshooting]  |
 |VM|Creating a New VM Instance for When VM console and website fails|  | |  |
-|Ubuntu|Version Compatibility|*explanation*| |  |
+|Ubuntu|Version compatibility issues in LAMP server ecosystem|*explanation*| |  |
+|Ubuntu|Process lock|*explanation/how-to*| | |
 |VM SSH| SSH not connecting in-browser (restart VM)|*how-to*| |  |
 |Apache|500 Internal Server Error|  | |[Apache 500 Internal Server Error] |
 |OPAC explanation|Explanation page for how the basic OPAC page works|*explanation*| |[OPAC explanation page]|
