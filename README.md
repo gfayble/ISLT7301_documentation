@@ -22,6 +22,8 @@ Tutorials are detailed guides on how to do something, including software setup a
 
 #### How-to guides
 
+How-to guides are like recipes. They describe an end goal, such as troubleshooting or problem solving, or rough steps to accomplish a goal when the configuration of a computer may vary between versions. In the Fall 2026 branch, all how-to guides are stored in the corresponding directory ([/how-to-guides](https://github.com/imparseable/ISLT7301_documentation/tree/Fall2026/how-to-guides)). The [/how-to-guides/README.md](https://github.com/imparseable/ISLT7301_documentation/tree/Fall2026/how-to-guides/README.md) file describes what they look like. The odds are that much of what you will be contributing to this repository is a how-to guide.
+
 #### Explanations
 
 #### Reference pages
