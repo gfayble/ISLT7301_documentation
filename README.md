@@ -19,6 +19,8 @@ Refer to the issues.md file to see if your issue is described, or to add an issu
 
 #### Tutorials
 
+Tutorials are detailed guides on how to do something, including software setup and configuration, checking settings, completing tasks, and solving/troubleshooting problems or errors. If you have a tutorial, it goes here. The example tutorial, written by Dr. Ridenour, is in the [/tutorials/](https://github.com/imparseable/ISLT7301_documentation/tree/Fall2026/tutorials) directory for Fall 2026. It is named SAMPLE.md.
+
 #### How-to guides
 
 #### Explanations
