@@ -26,6 +26,8 @@ Tutorials are detailed guides on how to do something, including software setup a
 
 #### Reference pages
 
+Reference documents describe something as briefly as possible, and describe the "thing" and only the thing, not focusing on the needs of the user. Reference material goes in the [/reference/](https://github.com/imparseable/ISLT7301_documentation/tree/Fall2026/reference) directory of the Fall 2026 branch.
+
 If you made a cheat sheet you would like to include, please include it here!
 
 ## How to format your work
