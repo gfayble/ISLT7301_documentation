@@ -24,7 +24,7 @@ Table columns are divided by "|", so to add to a column, find the space between 
 |VM configuration|Initial VM configuration to avoid issues with PHP/Wordpress|*reference*|  |  |
 |VM Command Line Interface|Failure to Unzip Downloaded Files|troubleshooting how-to|Emily Fricke| [Failure to Unzip] |
 |GCloud | | | | |
-|Nano|Effective use|*reference/cheat sheet*| | |
+|Nano|Effective use|*reference/cheat sheet*|Owen Vandeloecht | |
 |grep| |*reference/cheat sheet*| | |
 
 
