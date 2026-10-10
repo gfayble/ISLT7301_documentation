@@ -22,7 +22,7 @@ Table columns are divided by "|", so to add to a column, find the space between 
 |Directory permissions|General AND specific directory permission changes|*tutorial*|*available*|  |
 |Omeka/MySQL|Edit database configuration|*tutorial*|Danielle|[Edit Database Configuration in Omeka and MySQL] |
 |VM configuration|Initial VM configuration to avoid issues with PHP/Wordpress|*reference*|  |  |
-|VM Command Line Interface|Failure to Unzip Downloaded Files|troubleshooting how-to| | [Failure to Unzip] |
+|VM Command Line Interface|Failure to Unzip Downloaded Files|troubleshooting how-to|Emily Fricke| [Failure to Unzip] |
 |GCloud | | | | |
 |Nano|Effective use|*reference/cheat sheet*| | |
 |grep| |*reference/cheat sheet*| | |
