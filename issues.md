@@ -18,7 +18,7 @@ Table columns are divided by "|", so to add to a column, find the space between 
 |Ubuntu|Process lock|*explanation/how-to*| | |
 |VM SSH| SSH not connecting in-browser (restart VM)|*how-to*| |  |
 |Apache|500 Internal Server Error|  | |[Apache 500 Internal Server Error] |
-|OPAC explanation|Explanation page for how the basic OPAC page works|*explanation*| |[OPAC explanation page]|
+|OPAC explanation|Explanation page for how the basic OPAC page works|*explanation*|Bethany Cutkomp|[OPAC explanation page]|
 |Directory permissions|General AND specific directory permission changes|*tutorial*|*available*|  |
 |Omeka/MySQL|Edit database configuration|*tutorial*|Danielle|[Edit Database Configuration in Omeka and MySQL] |
 |VM configuration|Initial VM configuration to avoid issues with PHP/Wordpress|*reference*|  |  |
